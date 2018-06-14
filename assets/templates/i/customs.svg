@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="70px" viewBox="0 0 62 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>customs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3" transform="translate(-504.000000, -425.000000)" fill="#1778A7">
+            <g id="customs" transform="translate(504.000000, 425.000000)">
+                <path d="M61,5 L57,5 L57,1 C57,0.4 56.6,0 56,0 L1,0 C0.4,0 0,0.4 0,1 L0,64 C0,64.6 0.4,65 1,65 L5,65 L5,69 C5,69.6 5.4,70 6,70 L61,70 C61.6,70 62,69.6 62,69 L62,6 C62,5.4 61.6,5 61,5 L61,5 Z M5,6 L5,63 L2,63 L2,2 L55,2 L55,5 L6,5 C5.4,5 5,5.4 5,6 L5,6 Z M60,68 L7,68 L7,7 L60,7 L60,68 L60,68 Z" id="Shape"></path>
+                <rect id="Rectangle-path" x="17" y="16" width="33" height="1"></rect>
+                <rect id="Rectangle-path" x="17" y="19" width="33" height="1"></rect>
+                <rect id="Rectangle-path" x="17" y="22" width="33" height="1"></rect>
+                <rect id="Rectangle-path" x="17" y="25" width="33" height="1"></rect>
+                <rect id="Rectangle-path" x="17" y="28" width="33" height="1"></rect>
+                <rect id="Rectangle-path" x="17" y="31" width="33" height="1"></rect>
+                <path d="M41,42 C36,42 32,46 32,51 C32,56 36,60 41,60 C46,60 50,56 50,51 C50,46 46,42 41,42 L41,42 Z M41,58 C37.1,58 34,54.9 34,51 C34,47.1 37.1,44 41,44 C44.9,44 48,47.1 48,51 C48,54.9 44.9,58 41,58 L41,58 Z" id="Shape"></path>
+                <path d="M41,46 C38.2,46 36,48.2 36,51 C36,53.8 38.2,56 41,56 C43.8,56 46,53.8 46,51 C46,48.2 43.8,46 41,46 L41,46 Z M41,55 C38.8,55 37,53.2 37,51 C37,48.8 38.8,47 41,47 C43.2,47 45,48.8 45,51 C45,53.2 43.2,55 41,55 L41,55 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
